@@ -1,6 +1,6 @@
-# estudo_noteboklm
-Corrida para iniciantes
+# estudo_notebooklm
 
+Corrida para iniciantes
 
 <div align="center">
 
